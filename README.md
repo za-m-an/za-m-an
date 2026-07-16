@@ -1,110 +1,166 @@
-<h1 align="center">Hi there 👋, I'm Kamruzzaman Chowdhury</h1>
-<h3 align="center">🚀 AI Enthusiast | 💻 Frontend Developer | 🎓 CSE Freshman at BRAC University</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Exploring+AI+and+Frontend+Magic!;Building+cool+projects+at+ZENTORRA+🚀;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%94%A5" alt="Typing Animation" />
+# Hi, I'm Kamruzzaman Chowdhury 👋
+
+### Cybersecurity Enthusiast • ISC² Certified in Cybersecurity (CC) • CSE Student at BRAC University
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;ISC%C2%B2+Certified+in+Cybersecurity+(CC);Blue+Team+%7C+Cloud+Security+%7C+Secure+Development;Always+Learning+Always+Building" />
+
+</div>
+
+---
+
+# 🛡 About Me
+
+```text
+> Securing systems.
+> Building software.
+> Never stop learning.
+```
+
+- 🎓 B.Sc. in Computer Science & Engineering
+- 🏫 BRAC University
+- 🛡 ISC² Certified in Cybersecurity (CC)
+- 🔐 Career Focus: Cybersecurity
+- 💻 Interested in Secure Software Engineering
+- ☁ Learning Cloud Security
+- 🐧 Linux & Kali Linux User
+- 🧠 Exploring AI for Security Automation
+- 🚀 Co-Founder of Team Thinking
+- 🔬 Founder of Zaman Labs
+
+---
+
+# ⚡ Current Focus
+
+```yaml
+Learning:
+  - Penetration Testing
+  - Network Security
+  - Blue Team Operations
+  - Secure Coding
+  - Cloud Security
+  - Threat Detection
+
+Working On:
+  - Security Labs
+  - CTF Challenges
+  - Open Source
+  - Personal Security Tools
+
+Goal:
+  Become a Cybersecurity Engineer
+```
+
+---
+
+# 💻 Tech Stack
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript"/>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/133437962?v=4" width="150" height="150" style="border-radius: 50%" alt="Profile Photo">
+## Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
 </p>
 
----
+## Cybersecurity & Linux
 
-## 🌟 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="300" alt="Developer Animation" />
-</p>
-
-- 🎓 **CSE Freshman** at **BRAC University**
-- 🧠 Passionate about **Artificial Intelligence** and **Innovative Tech**
-- 🛠️ Currently a **Frontend Web Developer** at **ZENTORRA**
-- 🎯 Former **President** of JCPSC Innovation Club – Led the team to **1st Place** at multiple innovation fairs
-- 🏅 Winner of multiple science and tech fairs including **ISCPC**, **National Space Carnival**, and more
-- 📈 Always striving for **growth and innovation**
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,git,figma,firebase" alt="Skills" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🧋 [Caffeine](#)
-> A café-based demo website with an interactive menu and ordering system  
-> ⚡ Tech Stack: **HTML**, **CSS**, **JavaScript**  
-> 🗓️ **April 2025**
-
-### 💬 [Bracu Buzz](#)
-> A social media platform for BRACU students featuring chat and messaging capabilities  
-> ⚡ Tech Stack: **Flutter**, **Firebase**  
-> 🗓️ **March 2025**
-
----
-
-## 🏆 Key Achievements
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Trophy Animation" />
-</p>
-
-- 🏅 **Leadership**: Led interhouse sports team of 100+ to victory 🏆
-- 🥇 **Innovation**: 1st Place in **JCPSC Innovation Fair** (50+ competitors)
-- 🤖 **Efficiency**: Boosted productivity by 15% using AI solutions at **ZENTORRA**
-- 🧑‍💼 **Event Coordination**: Organized and hosted events for 200+ participants
-
----
-
-## 📜 Certifications
-
-- 🎓 **IBM TechXchange Dev Day** – Virtual Agent Developer
-- 📘 **EF SET C2 Proficiency** – Score: 79/100
-- ✅ **Project Management** certifications from **NASBA**, **PMI**, and **LinkedIn**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanlabs&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zamanlabs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanlabs&layout=compact&theme=radical" alt="Top Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🛠 Tools I Use
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<p>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-blue?style=for-the-badge)
+
+![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge)
+
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 📜 Certifications
+
+🏅 ISC² Certified in Cybersecurity (CC)
+
+📚 Currently expanding knowledge in
+
+- Network Security
+- Incident Response
+- Security Operations
+- Cloud Security
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamruzzamanchowdhury/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kamruzzaman.chowdhury@zamanlabs.live">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zamanlabs&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanlabs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanlabs&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📖 Fun Fact
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fxK4Y1f1GcRXy/giphy.gif" width="250" alt="Fun Animation" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
-> 🌍 The best way to predict the future is to **invent it**!
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kamruzzamanchowdhury">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:kamruzzaman467467@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Security is not a product, but a process."
+
+<img src="https://komarev.com/ghpvc/?username=zamanlabs&style=for-the-badge&color=blue"/>
+
+</div>
